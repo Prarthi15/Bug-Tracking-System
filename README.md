@@ -1,4 +1,4 @@
-Bug Tracking System using Python and SQL
+# Bug Tracking System using Python and SQL
 
 * In our Bug Tracking System project, we developed a comprehensive platform using SQL and Python to streamline the process of reporting, managing, and resolving software bugs.
   
